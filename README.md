@@ -1,2 +1,2 @@
 # Matrix-Op
-Matrix Operations ( Gauss , LU Decompositions in FORTRAN 
+Matrix Operations ( Gauss , LU Decompositions ) in FORTRAN 
